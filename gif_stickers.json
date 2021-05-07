@@ -1,0 +1,50 @@
+{
+	"android_play_store_link": "",
+	"sticker_packs": [{
+			"identifier": "1",
+			"name": "Emoji Stuff",
+			"publisher": "Ganesh JDev",
+			"tray_image_file": "https://firebasestorage.googleapis.com/v0/b/gifsticker.appspot.com/o/default_packs%2Femoji%2Fic_me.png?alt=media&token=a4b792b7-2418-4c2e-a250-fb8fae29134b",
+			"publisher_email": "mbganesh.jdev@gmail.com",
+			"publisher_website": "",
+			"privacy_policy_website": "",
+			"license_agreement_website": "",
+			"stickers": [{
+					"image_file": "https://firebasestorage.googleapis.com/v0/b/gifsticker.appspot.com/o/default_packs%2Femoji%2F1.webp?alt=media&token=95c6f1db-02e1-4190-a792-a7f1db4f8945",
+					"emojis": ["ðŸ™‚"]
+				},
+				{
+					"image_file": "https://firebasestorage.googleapis.com/v0/b/gifsticker.appspot.com/o/default_packs%2Femoji%2F2.webp?alt=media&token=478f3ca4-5df9-440c-9267-311cb1f32413",
+					"emojis": ["ðŸ™‚"]
+				},
+				{
+					"image_file": "https://firebasestorage.googleapis.com/v0/b/gifsticker.appspot.com/o/default_packs%2Femoji%2F3.webp?alt=media&token=9f66bd52-9f79-4a47-b2b6-09d26df59df4",
+					"emojis": ["ðŸ™‚"]
+				}
+			]
+		},
+		{
+			"identifier": "2",
+			"name": "Emoji Stuff",
+			"publisher": "JDev",
+			"tray_image_file": "https://firebasestorage.googleapis.com/v0/b/gifsticker.appspot.com/o/default_packs%2Femoji%2Fic_me.png?alt=media&token=a4b792b7-2418-4c2e-a250-fb8fae29134b",
+			"publisher_email": "mbganesh.jdev@gmail.com",
+			"publisher_website": "",
+			"privacy_policy_website": "",
+			"license_agreement_website": "",
+			"stickers": [{
+					"image_file": "https://firebasestorage.googleapis.com/v0/b/gifsticker.appspot.com/o/default_packs%2Femoji%2F1.webp?alt=media&token=95c6f1db-02e1-4190-a792-a7f1db4f8945",
+					"emojis": ["ðŸ™‚"]
+				},
+				{
+					"image_file": "https://firebasestorage.googleapis.com/v0/b/gifsticker.appspot.com/o/default_packs%2Femoji%2F2.webp?alt=media&token=478f3ca4-5df9-440c-9267-311cb1f32413",
+					"emojis": ["ðŸ™‚"]
+				},
+				{
+					"image_file": "https://firebasestorage.googleapis.com/v0/b/gifsticker.appspot.com/o/default_packs%2Femoji%2F3.webp?alt=media&token=9f66bd52-9f79-4a47-b2b6-09d26df59df4",
+					"emojis": ["ðŸ™‚"]
+				}
+			]
+		}
+	]
+}
